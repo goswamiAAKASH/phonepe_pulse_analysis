@@ -40,13 +40,16 @@ phonepe-pulse-analysis/
 ```
 # **Sample Visualizations**
 
-1. Top 10 States by Transaction Volume :
+1. Top 10 States by Transaction Volume 
 
-2. Year-wise Growth of PhonePe :
+2. Year-wise Growth of PhonePe 
 
-3. Brand-wise Smartphone Usage :
+3. Brand-wise Smartphone Usage 
 
-4. Insurance-to-Transaction Ratio by State :
+4. Insurance-to-Transaction Ratio by State
+   
+5. App Engagement vs User Base by Region 
 
-5. App Engagement vs User Base by Region :
+# **Live App Link**
+https://phonepepulseanalysis-4tfbh68xbmtkfzeyog5ug4.streamlit.app/
 
